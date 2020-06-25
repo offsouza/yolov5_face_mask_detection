@@ -1,5 +1,7 @@
 ## Mask detection with YOLOv5 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vj7wiFpsylfFmMSzTCLhnFbpbrAo3iBd?usp=sharing)
+
 #### Detection (train data)
 
 <p align="center">
